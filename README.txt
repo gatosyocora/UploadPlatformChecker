@@ -25,3 +25,30 @@ VRChatでOculusQuest用にアバターやワールドをアップロードする
  〇 連絡先
  Twitter : @gatosyocora
  Booth : https://gatosyocora.booth.pm/
+
+--------------------------------------------
+This Unity Editor Extension is displayed build platform selected to SceneView.
+We can select build platform from this one.
+This is used upload Avatar & World Contents for OculuQuest to VRChat.
+
+〇 How to use
+ - Import UploadPlatformChecker.unitypackage to your project.
+ - It is displayed build platform selected to SceneView.
+ - 「PC」: Switch build platform to PC.
+ - 「Android」: Switch build platform to Android (OculusQuest).
+                If it is not install Android SDK, it is displayed alert and new button.
+ - 「Open Build Settings」: Open Build Settings. (When not install Android SDK)
+
+〇 Click Android, but it is not switch "Android" and not display "Android"
+  No installed Android SDK very probable.
+  Click "Open Build Settings" and Click "Open Download Page" to download "UnitySetup-Android-Support-for-Editor-XXX.exe".
+  After, start This exe file to install Android SDK.
+
+〇 Terms of Service/Disclaimer
+  This Tool author "gatosyocora" avoid damage you have caused to use this.
+  This script is MIT License. You can use free within license.
+  This license details is written in LICENSE.txt.
+
+〇 Contact
+  Twitter : @gatosyocora
+  Booth : https://gatosyocora.booth.pm/
