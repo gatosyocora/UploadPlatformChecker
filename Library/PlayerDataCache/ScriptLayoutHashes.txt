@@ -1,0 +1,13 @@
+WindowsStandalone
+PlayerPath?
+C:/Users/Owner/AppData/Local/Temp/DefaultCompany/VRCAvatar_Quest/customscene.vrcw
+SceneListBegin?
+Assets/World.unity
+SceneListEnd?
+ed2f55581dee6a32311eddab9a27bfcd Assembly-CSharp.dll:VRC.Core.VRCPipelineManager
+12f8e90872dd6d0a61309de3a260758b VRCSDK2.dll:VRCSDK2.VRC_AvatarPedestal
+76626e9194b1b49806454cbf67a33263 VRCSDK2.dll:VRCSDK2.VRC_EventHandler
+2519821e5d362030fbac9c8e222ea2c6 VRCSDK2.dll:VRCSDK2.VRC_MirrorReflection
+03280f1ae5f02bf306f43f2d54978fcd VRCSDK2.dll:VRCSDK2.VRC_SceneDescriptor
+05688ba35204434725d66d336ae00e41 VRCSDK2.dll:VRCSDK2.VRC_Station
+4a280e79c5a035824f0c0aabcae1232f VRCSDK2.dll:VRCSDK2.VRC_Trigger
